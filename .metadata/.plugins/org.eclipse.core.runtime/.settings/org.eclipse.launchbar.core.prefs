@@ -1,0 +1,17 @@
+LaunchTargetManager/configs/ExcelFileRead=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/ExcelFileRead\ (1)=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/ExcelFileReadUI=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/FileReadUI\ (1)=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:ReadFile,org.eclipse.launchbar.core.descriptorType.default\:ExcelFileRead,org.eclipse.launchbar.core.descriptorType.default\:FileReadUI,org.eclipse.launchbar.core.descriptorType.default\:FileReadUI (1),org.eclipse.launchbar.core.descriptorType.default\:ExcelFileRead (1),org.eclipse.launchbar.core.descriptorType.default\:ExcelFileReadUI,org.eclipse.launchbar.core.descriptorType.default\:ExcelFileReadUI (1)
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:ExcelFileRead\ (1)/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:ExcelFileRead\ (1)/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:ExcelFileRead/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:ExcelFileRead/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:ExcelFileReadUI/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:FileReadUI/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:FileReadUI/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:ReadFile/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:ReadFile/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

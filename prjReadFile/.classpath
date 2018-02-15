@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/Projects/Java/CSVRead/prjReadFile/lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="E:/Projects/Java/CSVRead/prjReadFile/lib/ngdbc.jar"/>
+	<classpathentry kind="lib" path="E:/Projects/Java/CSVRead/prjReadFile/lib/ojdbc15-11.1.0.6.0.jar"/>
+	<classpathentry kind="lib" path="E:/Projects/Java/CSVRead/prjReadFile/lib/sqljdbc4-3.0.jar"/>
+	<classpathentry kind="lib" path="E:/Projects/Java/CSVRead/prjReadFile/lib/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="E:/Projects/Java/CSVRead/prjReadFile/lib/poi-ooxml-3.9.jar"/>
+	<classpathentry kind="lib" path="E:/Projects/Java/CSVRead/prjReadFile/lib/javacsv-2.0.jar"/>
+	<classpathentry kind="lib" path="E:/Projects/Java/CSVRead/prjReadFile/lib/opencsv-2.3.jar"/>
+	<classpathentry kind="lib" path="E:/Projects/Java/CSVRead/prjReadFile/lib/opencsv-3.9.jar"/>
+	<classpathentry kind="lib" path="E:/Projects/Java/CSVRead/prjReadFile/lib/commons-io-2.6/commons-io-2.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
